@@ -1,12 +1,13 @@
 {
-    "name": "bootstrap-tabcollapse",
-    "main": "bootstrap-tabcollapse.js",
+    "name": "bootstrap-tabcollapse-classes",
+    "main": "bootstrap-tabcollapse-classes.js",
     "version": "0.2.4",
     "homepage": "https://github.com/flatlogic/bootstrap-tabcollapse",
     "authors": [
-        "okendoken (http://flatlogic.com)"
+        "okendoken (http://flatlogic.com)",
+        "boonier"
     ],
-    "description": "Bootstrap plugin that switches bootstrap tabs component to collapse component for small screens.",
+    "description": "Bootstrap plugin that switches bootstrap tabs component to collapse component for small screens. Added - inherits class from parent <li>.",
     "keywords": [
         "bootstrap",
         "tabs",
